@@ -1,8 +1,8 @@
 <h1>Tim Kashkarov</h1>
 
-I am a senior majoring in Econ and Stats. Hello world
+I am a senior majoring in Econ and Stats. I made this website using GitHub. Hello World!
 
-![Here is the meme below:](https://cdn.prod.website-files.com/64fa82cbdeed167ebaefef84/64fa868fecc183a3dd76ab9e_603ec500eb33e7a121dad741_oubRyYSPtHubQbunTJnW8SoPveC2pf96lIzi1AE2t8y2ENFlYmHp2M_hua7BCgxnKcTNM4Oyw81sYJa3vzg2eF0F2MI3yoeveoMUvqrA_13NPujxnvgjXdtbMpxPbYuiYz0fiFa2.jpeg "Web Design Meme")
+[![Here is the meme below:](https://cdn.prod.website-files.com/64fa82cbdeed167ebaefef84/64fa868fecc183a3dd76ab9e_603ec500eb33e7a121dad741_oubRyYSPtHubQbunTJnW8SoPveC2pf96lIzi1AE2t8y2ENFlYmHp2M_hua7BCgxnKcTNM4Oyw81sYJa3vzg2eF0F2MI3yoeveoMUvqrA_13NPujxnvgjXdtbMpxPbYuiYz0fiFa2.jpeg "Web Design Meme")](https://cdn.prod.website-files.com/64fa82cbdeed167ebaefef84/64fa868fecc183a3dd76ab9e_603ec500eb33e7a121dad741_oubRyYSPtHubQbunTJnW8SoPveC2pf96lIzi1AE2t8y2ENFlYmHp2M_hua7BCgxnKcTNM4Oyw81sYJa3vzg2eF0F2MI3yoeveoMUvqrA_13NPujxnvgjXdtbMpxPbYuiYz0fiFa2.jpeg)
 
 <h2>My Hobbies</h2>
 
